@@ -1,3 +1,4 @@
+//Remeber change "192.168.1.100" IP and "12345" Port
 #include <iostream>
 #include <windows.h>
 #include <winuser.h>
